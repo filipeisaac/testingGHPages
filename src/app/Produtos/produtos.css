@@ -1,7 +1,7 @@
 /*ESTILIZAÇÃO PRODUTOS*/
 
 .customer360{
-    background-image: url("../../../public/assets/backcustomer.png");
+    background-image: url("/assets/backcustomer.png");
     background-size: 100% 100%;
     background-position: center; 
     background-repeat: no-repeat; 
@@ -68,7 +68,7 @@
     line-height: 30px;
   }
   .nuvemdedados{
-    background-image: url("../../../public/assets/backdata.png");
+    background-image: url("/assets/backdata.png");
     background-size: 100% 100%;
     background-position: center; 
     background-repeat: no-repeat; 
@@ -81,7 +81,7 @@
     gap: 30px;
   }
   .marketingcloud{
-    background-image: url("../../../public/assets/backmarketing.png");
+    background-image: url("/assets/backmarketing.png");
     background-size: 100% 100%;
     background-position: center; 
     background-repeat: no-repeat; 

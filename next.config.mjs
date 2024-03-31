@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    //basePath: "/testingGHPages",
+    basePath: "/testingGHPages",
     output: "export",  // <=== enables static exports
     reactStrictMode: true,
   };
