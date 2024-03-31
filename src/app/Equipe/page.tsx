@@ -9,7 +9,7 @@ const Equipe = () => {
         <h1 className="titulo-equipe">Equipe</h1>
         <section className="informacoes-equipe">
           <article className="informacoes-pessoais">
-            <Image src="/assets/LarissaAraujoG.svg" alt="Foto Larissa Araujo" width="300" height="300" className="fotos"/>
+            <Image src="assets/LarissaAraujoG.svg" alt="Foto Larissa Araujo" width="300" height="300" className="fotos"/>
             <section className="nomes-equipe">
               <span className="nome-rm-rede">
                 <p>Larissa Araújo Gama A.</p>
